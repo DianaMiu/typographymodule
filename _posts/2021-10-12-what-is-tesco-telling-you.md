@@ -2,7 +2,7 @@
 layout: post
 title: What is Tesco telling you?
 date: 2021-10-10T12:07:50.974Z
-image: ../uploads/tesco-banner1.jpeg
+image: ../uploads/tesco-banner1-2.jpeg
 title_color: "#ffffff"
 comments: false
 ---
