@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About the site
-image: ../uploads/nick-fewings-exgnhwodo6y-unsplash.jpg
+image: ../uploads/patrick-tomasso-bgtkvzjpyig-unsplash.jpg
 subtitle: My reasons and methods. From A to Z.
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
