@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About the site
-image: ../uploads/nick-hillier-5nkhbhrdbqc-unsplash.jpg
+image: ../uploads/patrick-tomasso-bgtkvzjpyig-unsplash.jpg
 subtitle: My reasons and methods. From A to Z.
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
@@ -13,7 +13,7 @@ show: true
 ---
 What do fonts and juicy burgers have in common? What about colours and those fancy restaurants in the city centre? 
 
-###### This website looks into the importance of typography across the entire food industry.
+#### This website looks into the importance of typography across the entire food industry.
 
 There are so many backstories and thoroughly researched reasons why some words on your Tesco grocery items are smaller than others, or how the use of colours in restaurant logos can change the entire energy it gives off.
 
@@ -29,8 +29,6 @@ You will find examples of different uses of typography across the food industry:
 * the development of the McDonald’s logo and some of their successful – and not that successful – ads
 * a clear parallel between typography in fast food companies versus in high-class restaurants 
 * rare fonts that are seen in certain sectors of the food industry.
-
-
 
 ## Logo and Banner
 
@@ -49,3 +47,11 @@ As I look into everything typography-related in the food industry from fine dini
 ## Title
 
 The *title* of my website is quite straightforward – articles ranging on topics from within the food industry. Everything you need to know about the link between typography and food. From A to Z.
+
+![](../uploads/screenshot-2021-10-12-at-17.24.50.png)
+
+#### Also, some honourable mentions:
+
+This guy is doing a great job at redesigning the Tesco logo, so that it loses all meaning and branding we all assocaite with the supermarket chain: <https://www.youtube.com/watch?v=DHoz7UyvVdk>
+
+Fun watching food (and not only) brands completely transform when the logos are all Comic Sans: <https://www.youtube.com/watch?v=u56w2O6o_fU>
