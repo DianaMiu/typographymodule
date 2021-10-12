@@ -2,7 +2,7 @@
 layout: post
 title: What is Tesco telling you?
 date: 2021-10-10T12:07:50.974Z
-image: ../uploads/simone-hutsch-dq3a90tprqy-unsplash.jpg
+image: ../uploads/tesco-banner1.jpeg
 title_color: "#ffffff"
 comments: false
 ---
