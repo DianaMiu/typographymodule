@@ -38,8 +38,6 @@ I used neutrals and non-colours for my logo, so that it does not distract from t
 
 ![Food from A to Z logo](../uploads/logo-draft2.png "Food from A to Z logo")
 
-
-
 And speaking of the banner, the red and orange bright hues match the topics I talk about – fast food logos, supermarket chain typefaces – and creates an edgy, vibrant aesthetic.
 
 ![Food from A to Z banner](../uploads/banner6.png "Food from A to Z banner")
@@ -49,3 +47,11 @@ As I look into everything typography-related in the food industry from fine dini
 ## Title
 
 The *title* of my website is quite straightforward – articles ranging on topics from within the food industry. Everything you need to know about the link between typography and food. From A to Z.
+
+![](../uploads/screenshot-2021-10-12-at-17.24.50.png)
+
+#### Also, some honourable mentions:
+
+This guy is doing a great job at redesigning the Tesco logo, so that it loses all meaning and branding we all assocaite with the supermarket chain: <https://www.youtube.com/watch?v=DHoz7UyvVdk>
+
+Fun watching food (and not only) brands completely transform when the logos are all Comic Sans: <https://www.youtube.com/watch?v=u56w2O6o_fU>
