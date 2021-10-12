@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About the site
-image: ../uploads/patrick-tomasso-bgtkvzjpyig-unsplash.jpg
+image: ../uploads/tim-mossholder-fh3nwjvia-u-unsplash.jpg
 subtitle: My reasons and methods. From A to Z.
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
