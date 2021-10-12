@@ -11,8 +11,6 @@ tags: null
 description: null
 show: true
 ---
-
-
 What do fonts and juicy burgers have in common? What about colours and those fancy restaurants in the city centre? 
 
 #### This website looks into the importance of typography across the entire food industry.
@@ -52,7 +50,7 @@ The *title* of my website is quite straightforward – articles ranging on topic
 
 ![](../uploads/screenshot-2021-10-12-at-17.24.50.png)
 
-#### Also, some honourable mentions:
+##### Also, some honourable mentions:
 
 This guy is doing a great job at redesigning the Tesco logo, so that it loses all meaning and branding we all assocaite with the supermarket chain: <https://www.youtube.com/watch?v=DHoz7UyvVdk>
 
