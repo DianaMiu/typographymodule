@@ -13,7 +13,7 @@ show: true
 ---
 What do fonts and juicy burgers have in common? What about colours and those fancy restaurants in the city centre? 
 
-###### This website looks into the importance of typography across the entire food industry.
+#### This website looks into the importance of typography across the entire food industry.
 
 There are so many backstories and thoroughly researched reasons why some words on your Tesco grocery items are smaller than others, or how the use of colours in restaurant logos can change the entire energy it gives off.
 
@@ -30,8 +30,6 @@ You will find examples of different uses of typography across the food industry:
 * a clear parallel between typography in fast food companies versus in high-class restaurants 
 * rare fonts that are seen in certain sectors of the food industry.
 
-
-
 ## Logo and Banner
 
 My logo is shown below (in its full-size, easier-to-criticise version). Featuring a minimalist, yet slightly sophisticated icon of a plate with cutlery, it makes it clear from the very beginning what this website is about. 
@@ -39,6 +37,8 @@ My logo is shown below (in its full-size, easier-to-criticise version). Featurin
 I used neutrals and non-colours for my logo, so that it does not distract from the colourful front page and banner.
 
 ![Food from A to Z logo](../uploads/logo-draft2.png "Food from A to Z logo")
+
+
 
 And speaking of the banner, the red and orange bright hues match the topics I talk about – fast food logos, supermarket chain typefaces – and creates an edgy, vibrant aesthetic.
 
