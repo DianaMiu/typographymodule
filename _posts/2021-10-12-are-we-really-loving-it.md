@@ -7,6 +7,10 @@ title_color: "#ffffff"
 caption: "About McDonald’s and its typographical empire. "
 comments: false
 ---
+About McDonald’s and its typographical empire.
+
+
+
 There are many logos most of us are extremely familiar with – be it because they have been heavily advertised, or they represent a company whose products we use and value. 
 
 Although some companies’ logos surround us almost every step on our way to school or work – maybe even more than you realise – we more often than not fail to notice changes in the logo’s design.
