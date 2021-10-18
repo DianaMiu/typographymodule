@@ -52,6 +52,6 @@ The *title* of my website is quite straightforward – articles ranging on topic
 
 ##### Also, some honourable mentions:
 
-This guy is doing a great job at redesigning the Tesco logo, so that it loses all meaning and branding we all assocaite with the supermarket chain: <https://www.youtube.com/watch?v=DHoz7UyvVdk>
+This guy is doing a great job at redesigning the Tesco logo, so that it loses all meaning and branding we all associate with the supermarket chain: <https://www.youtube.com/watch?v=DHoz7UyvVdk>
 
-Fun watching food (and not only) brands completely transform when the logos are all Comic Sans: <https://www.youtube.com/watch?v=u56w2O6o_fU>
+Fun watching food (and not only) brands completely transform when their logos are Comic Sans: <https://www.youtube.com/watch?v=u56w2O6o_fU>
