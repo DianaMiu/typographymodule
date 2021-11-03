@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+
+html { 
+    font-size: 10px;
+}
+
+
+
+body {
+    background-image: url("background7.jpg");
+    background-position: 0 1000px;
+    
+    
+}
+
+.intro {
+    max-width: 1100px;
+    margin-right: 90rem;
+    margin-top:4rem;
+    text-align:center;
+    
+}
+
+
+.hello {
+
+margin-right: 1000rem;
+margin-left: 4rem;
+margin-bottom: 20px;
+font-family: fantasy;
+text-align: left;
+font-size: 80px;
+color: #014114d0;
+
+
+}
+  
+.story {
+    font-size: 8rem;
+    line-height: 1rem;
+    margin-top: 3.5rem;
+    margin-bottom: 3rem;
+    color: white; 
+    font-family: "Source Sans Pro";
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 5px;
+    font-kerning: auto;
+}
+
+.atoz {
+        font-size: 6rem;
+        line-height: 1rem;
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+        color: #01641f; 
+        opacity: 60%;
+        font-weight: bold;
+        font-family:'Tangerine';
+        letter-spacing: 7px;
+        text-align: center;
+        
+}
+
+
+.profilepic2 {
+    width: 265px;
+    height: 265px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 1000rem;
+    margin-left: 1rem;
+
+}
+
+.background {
+    background-position: 0 1000px;
+}
+
+h1 {
+    font-size: 6rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 4rem;
+    font-weight: 530;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.introbanner {
+    padding: 20px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color:#b65d5db6 ;
+    box-shadow: 0 4px 8px 0 rgba(39, 99, 21, 0.2);
+    
+}
+
+.para1 {
+    padding:50px;
+    margin: 50px;
+    background-color:#2a442aa4 ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.616);
+}
+
+.para2 {
+    padding:50px;
+    margin:50px;
+    background-color:#2a442aa4 ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.616);
+}
+
+.para3 {
+    padding:50px;
+    margin:50px;
+    background-color:#2a442aa4 ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.616);
+}
+
+.para4 {
+    padding:50px;
+    margin:50px;
+    margin-bottom: 5px;
+    background-color:#2a442aa4 ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.616);
+}
+
+
+.para1text {
+    font-size: 1.6rem;
+    line-height: 5rem;
+    margin-bottom: 2rem;
+    color: white; 
+    text-align: center;
+}
+ 
+.titlepara1 {
+    font-size: 5rem;
+    line-height: 1rem;
+    margin-bottom: 3.5rem;
+    color: white; 
+    font-family: "Source Sans Pro";
+    text-align: center;
+    
+}
+
+.titlepara1::first-letter{
+    color: rgba(252, 212, 212, 0.705);
+        font-family: "Source Sans Pro";
+        font-size: 8rem;
+        font-weight: bold;
+     }
+
+.para2text {
+    font-size: 1.6rem;
+    line-height: 5rem;
+    margin-bottom: 2rem;
+    color: white; 
+    text-align: center;
+}
+ 
+.titlepara2 {
+    font-size: 5rem;
+    line-height: 1rem;
+    margin-bottom: 3.5rem;
+    color: white; 
+    font-family: "Source Sans Pro";
+    text-align: center;
+}
+
+.titlepara2::first-letter {
+    color: rgba(252, 212, 212, 0.705);
+        font-family: "Source Sans Pro";
+        font-size: 8rem;
+        font-weight: bold;
+     }
+    
+.para3text {
+    font-size: 1.8rem;
+    line-height: 5rem;
+    margin-bottom: 2rem;
+    color: white; 
+    text-align: center;
+}
+ 
+.titlepara3 {
+    font-size: 5rem;
+    line-height: 1rem;
+    margin-bottom: 3.5rem;
+    color: white; 
+    font-family: "Source Sans Pro";
+    text-align: center;
+    }
+
+.titlepara3::first-letter {
+    color: rgba(252, 212, 212, 0.705);
+        font-family: "Source Sans Pro";
+        font-size: 8rem;
+        font-weight: bold;
+     }
+    
+.para4text {
+    font-size: 1.8rem;
+    line-height: 5rem;
+    margin-bottom: 2rem;
+    color: white; 
+    text-align: center;
+}
+ 
+.titlepara4 {
+    font-size: 5rem;
+    line-height: 1rem;
+    margin-bottom: 3.5rem;
+    color: white; 
+    font-family: "Source Sans Pro";
+    text-align: center;
+    
+}
+.titlepara4::first-letter {
+    color: rgba(252, 212, 212, 0.705);
+        font-family: "Source Sans Pro";
+        font-size: 8rem;
+        font-weight: bold;
+ }
+
+
+.collage3 {
+    margin-left: 5rem;
+   width: 92.2%;
+   height: 70%; 
+   margin-top: 50px;
+   margin-bottom: 50px;
+   padding-bottom: 1000px;
+   opacity: 95%;
+   padding:50px;
+   padding-block-end: 50px;
+   box-shadow: 0 4px 8px 0 rgba(12, 87, 12, 0.87);
+}
+   
