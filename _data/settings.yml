@@ -14,5 +14,5 @@ gridlayout: false
 fixednavbar: false
 upzoom: true
 items:
-  - name: About Diana
+  - name: About Me
     siteurl: /aboutme/
