@@ -15,4 +15,4 @@ fixednavbar: false
 upzoom: true
 items:
   - name: About Me
-    siteurl: /aboutme/
+    siteurl: file:///C:/Users/diana/Desktop/aboutme/typographymodule/aboutme/draft2.html
