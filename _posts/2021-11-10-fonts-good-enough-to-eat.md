@@ -2,7 +2,7 @@
 layout: post
 title: Fonts good enough to eat
 date: 2021-11-10T15:34:25.818Z
-image: ../uploads/grillography.jpeg
+image: ../uploads/flour-word.jpg
 title_color: "#ffffff"
 caption: Fonts that look good enough to eat
 comments: false
