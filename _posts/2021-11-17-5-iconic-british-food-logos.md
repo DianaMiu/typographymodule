@@ -2,7 +2,7 @@
 layout: post
 title: 5 iconic British food logos
 date: 2021-11-17T13:56:02.989Z
-image: ../uploads/pip-christie-wocezlbgwxu-unsplash.jpg
+image: ../uploads/7-13-british-food_yoprgq.gif
 title_color: "#ffffff"
 comments: false
 ---
