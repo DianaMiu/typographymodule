@@ -32,7 +32,6 @@ The original recipe for HP Sauce was invented and developed back in 1899, becomi
 
 ![image credits: HP Sauce](../uploads/hpsauce-logo.jpg "image credits: HP Sauce")
 
-
 The all-caps, serif font gives the impression of quality, whereas the choice of white, dark and light blue hues communicates a sense of trust.  
 
 ### 3. Cadbury
@@ -69,4 +68,4 @@ As it turned out, a simple wordmark was more than sufﬁcient to carry the power
 *These logos have, in one way or another, revolutionized the food typography world at its time.* 
 
 All of them have made a name for themselves and have slowly, but surely, become part of the British heritage. 
-*After all, Britain loves its food.*
+***After all, Britain loves its food.***
