@@ -6,8 +6,7 @@ image: ../uploads/pip-christie-wocezlbgwxu-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-There are some brand logos that are instantly recognisable by anyone in the UK. Most of them have been around for quite some time, while others have become increasingly popular over the last few decade. Needless to say, all of them have made a name for themselves and have slowly, but surely, become part of the British heritage. 
-
+There are some brand logos that are instantly recognisable by anyone in the UK. Most of them have been around for quite some time, while others have become increasingly popular over the last few decade. 
 
 Here are the TOP 5 most recognisable British food logos:
 
@@ -60,5 +59,7 @@ Few companies have had the lasting endurance and consistent branding of Twinings
 More importantly, it’s a symbol of market dominance; Twinings was singlehandedly responsible for making tea not only the quintessential British drink, but also a worldwide sensation.
 As it turned out, a simple wordmark was more than sufﬁcient to carry the powerful Twinings name around the whole world. And that’s a good lesson on the power of simplicity and good branding.
 
-*These logos have, in one way or another, revolutionized the food typography world at its time. 
-It is therefore of no surprise that these iconic logos have become a symbol of English branding. After all, Britain loves its food.*
+*These logos have, in one way or another, revolutionized the food typography world at its time.* 
+
+All of them have made a name for themselves and have slowly, but surely, become part of the British heritage. 
+*After all, Britain loves its food.*
