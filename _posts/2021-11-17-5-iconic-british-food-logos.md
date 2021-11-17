@@ -18,15 +18,21 @@ Ever since the 1920s, the label on the jar has had a picture of a marmite on it.
 ![image credits: Marmite](../uploads/marmite-logo.png "image credits: Marmite")
 
 <https://www.youtube.com/watch?v=M29CYYyRnqA> - this is the Hate it or Love it Marmite advert from 1997
+
 [https://www.youtube.com/watch?v=_MfV0yA7bck](https://www.youtube.com/watch?v=_MfV0yA7bck) - and this is a parody from 2013 of the Hate it or Love it advert.
+
 <https://www.bbc.co.uk/news/uk-13541148> - this is a list of ten things you’ll love/hate to know about Marmite
+
 <https://www.theguardian.com/artanddesign/shortcuts/2019/apr/24/helvetica-now-marmite-font-redesigned-internet-age> - this is a very interesting article that compares the love it or hate it attitude towards Marmite to the divisiveness around the Helvetica typeface. Apparently, *Helvetica is “the Marmite of fonts.”*
 
 ### 2. HP Sauce
 
 The original recipe for HP Sauce was invented and developed back in 1899, becoming throughout the years an iconic British brand. 
 ‘HP’ stands for Houses of Parliament, and it was rumoured that politicians used this condiment at the turn of the 20th century. Although the sauce is now produced in the Netherlands, the infamous logo is still made up of the Union Jack’s colours along with an illustration of the London landmark, the Houses of Parliament.
-The all-caps, serif font gives the impression of sophistication, traditionality, and quality, whereas the choice of white, dark and light blue hues communicates a sense of trust.  
+
+![image credits: HP Sauce](../uploads/hpsauce-logo.jpg "image credits: HP Sauce")
+
+The all-caps, serif font gives the impression of quality, whereas the choice of white, dark and light blue hues communicates a sense of trust.  
 
 ### 3. Cadbury
 
@@ -62,4 +68,4 @@ As it turned out, a simple wordmark was more than sufﬁcient to carry the power
 *These logos have, in one way or another, revolutionized the food typography world at its time.* 
 
 All of them have made a name for themselves and have slowly, but surely, become part of the British heritage. 
-*After all, Britain loves its food.*
+***After all, Britain loves its food.***
