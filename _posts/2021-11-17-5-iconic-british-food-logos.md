@@ -30,7 +30,7 @@ Ever since the 1920s, the label on the jar has had a picture of a marmite on it.
 The original recipe for HP Sauce was invented and developed back in 1899, becoming throughout the years an iconic British brand. 
 ‘HP’ stands for Houses of Parliament, and it was rumoured that politicians used this condiment at the turn of the 20th century. Although the sauce is now produced in the Netherlands, the infamous logo is still made up of the Union Jack’s colours along with an illustration of the London landmark, the Houses of Parliament.
 
-![image credits: HP Sauce](../uploads/hpsauce-logo.jpg "image credits: HP Sauce")
+![image credits: Chris Mitchell](../uploads/hpsauce-logo.jpg "image credits: Chris Mitchell")
 
 The all-caps, serif font gives the impression of quality, whereas the choice of white, dark and light blue hues communicates a sense of trust.  
 
