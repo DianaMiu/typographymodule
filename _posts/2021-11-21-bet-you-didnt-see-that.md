@@ -45,7 +45,7 @@ Look closer at the space between the K and I.
 
 There it is!
 
-### 4. Twix 
+### 4. Twix
 
 Yet another chocolate brand on this list. Not surprising.
 
@@ -69,6 +69,10 @@ The surprising thing is that it doesn’t even represent the number of Heinz pro
 ![image credits: Smithsonianmag](../uploads/heinzbottles.jfif "image credits: Smithsonianmag")
 
 And the number 57 on the ketchup bottle is not the only element with a story behind it. The placement of the number itself has [a very important reason. ](https://www.ladbible.com/more/awesome-the-57-on-a-bottle-of-heinz-ketchup-is-put-in-a-specific-position-20160716#:~:text=It's%20pretty%20common%20knowledge%20that,'57%20varieties'%20has%20stuck.)
+
+![image credits: Heinz](../uploads/57on-heinz.jfif "image credits: Heinz")
+
+
 
 These are just 5 sneaky food logos with meanings you probably did not know about. Remember that behind every design, there’s a story more interesting than you might think. 
 
