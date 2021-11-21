@@ -10,9 +10,7 @@ Some logos need a second, third or even fourth look to discover all the hidden m
 
 Below is a list of food brand logos that have an interesting story behind them. 
 
-
-
-1. Wendy’s
+### 1. Wendy’s
 
 One of the most popular and beloved fast-food chains is named after the daughter of founder Dave Thomas. The logo (featured below) is of Wendy as a child. Although to the untrained eye, the logo features a just a redhead dressed in a blue and white dress, Dave Thomas managed to put another family member in the logo as well. Just a closer look will reveal the word MOM written on Wendy’s collar. Family business at its finest.
 
@@ -22,9 +20,7 @@ Apparently, Dave Thomas regretted using his daughter’s name for the company, a
 
 Also, [this is what Wendy looks like now](https://www.tasteofhome.com/collection/famous-food-brand-figures-in-real-life/). (Along with other famous food figures) 
 
-
-
-2. Toblerone
+### 2. Toblerone
 
 With its 108 years of history, it is no wonder Toblerone has many surprises and hidden facts behind their logo and products.
 
@@ -36,9 +32,7 @@ Toblerone was founded in Bern, Switzerland. The city’s name translates to *bea
 
 Here’s a [list](https://www.businessinsider.com/9-things-you-never-knew-about-toblerone-2016-11?r=US&IR=T) of 9 things you might not have known about the beloved Swiss chocolate.
 
-
-
-3. Hershey's Kisses
+### 3. Hershey's Kisses
 
 In 2017, Matthew Santoro’s [YouTube video](https://www.youtube.com/watch?v=FdRCBaQTbfc) went viral, as he revealed hidden images in popular food logos. While some were common knowledge, one that really stuck with the public was the extra secret Hershey’s Kiss hidden on the packaging. 
 
@@ -51,9 +45,7 @@ Look closer at the space between the K and I.
 
 There it is!
 
-
-
-   4. Twix 
+### 4. Twix 
 
 Yet another chocolate brand on this list. Not surprising.
 
@@ -66,23 +58,17 @@ They have kept the same – or very similar – colour schemes since their first
 
 ![image credits: 1000logos.net](../uploads/twix-logo-history-640x858.jpg "image credits: 1000logos.net")
 
-
-
-   5. Heinz Ketchup
+### 5. Heinz Ketchup
 
 You might have noticed on the Heinz ketchup bottle the *“57 varieties”* text written just below the famous logo.
 
 ![image credits: Heinz ](../uploads/heinzone-bottle.jpg "image credits: Heinz ")
 
-
 The surprising thing is that it doesn’t even represent the number of Heinz products or varieties. Back in the day when it was founded, 57 was actually a combination of founder Henry Heinz’ lucky number 5, and his wife’s 7. And since 1886 (when Heinz Tomato Ketchup was first launched in the UK), the number 57 stuck with the brand.
 
 ![image credits: Smithsonianmag](../uploads/heinzbottles.jfif "image credits: Smithsonianmag")
 
-
 And the number 57 on the ketchup bottle is not the only element with a story behind it. The placement of the number itself has [a very important reason. ](https://www.ladbible.com/more/awesome-the-57-on-a-bottle-of-heinz-ketchup-is-put-in-a-specific-position-20160716#:~:text=It's%20pretty%20common%20knowledge%20that,'57%20varieties'%20has%20stuck.)
-
-
 
 These are just 5 sneaky food logos with meanings you probably did not know about. Remember that behind every design, there’s a story more interesting than you might think. 
 
